@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3 Pin=J8-1
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=J10-2
+Removed Pin From Net: NetName=GND Pin=J10-4
+Removed Member From Class: ClassName=SchBTRC Member=J8
+Removed Member From Class: ClassName=SchBTRC Member=J10

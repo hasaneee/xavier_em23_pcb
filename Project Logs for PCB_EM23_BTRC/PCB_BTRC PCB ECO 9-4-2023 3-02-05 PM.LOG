@@ -1,0 +1,16 @@
+Added Component: Designator=MH1(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH2(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH3(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH4(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH5(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH6(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH7(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Component: Designator=MH8(MH_7.4MMNC_3.2MMD_NON_COPPER_NPTH)
+Added Member To Class: ClassName=SchBTRC Member=Component MH1 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH2 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH3 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH4 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH5 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH6 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH7 MH_7.4MMNC_3.2MMD
+Added Member To Class: ClassName=SchBTRC Member=Component MH8 MH_7.4MMNC_3.2MMD
